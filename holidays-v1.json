@@ -1,0 +1,1859 @@
+{
+  "version": 1,
+  "revision": 2026100301,
+  "updatedAt": "2026-10-03",
+  "coverage": [
+    {
+      "countryCode": "KR",
+      "years": [
+        2026,
+        2027
+      ],
+      "sourceURLs": [
+        "https://www.mpm.go.kr/mpm/comm/newsPress/newsPressRelease/?boardId=bbs_0000000000000029&cntId=4250&mode=view",
+        "https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431"
+      ]
+    },
+    {
+      "countryCode": "JP",
+      "years": [
+        2026,
+        2027
+      ],
+      "sourceURLs": [
+        "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html"
+      ]
+    },
+    {
+      "countryCode": "US",
+      "years": [
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      "sourceURLs": [
+        "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      ]
+    },
+    {
+      "countryCode": "GB",
+      "years": [
+        2026,
+        2027,
+        2028
+      ],
+      "sourceURLs": [
+        "https://www.gov.uk/bank-holidays.json"
+      ]
+    },
+    {
+      "countryCode": "DE",
+      "years": [
+        2026
+      ],
+      "sourceURLs": [
+        "https://www.bundesbank.de/resource/blob/749314/05f64c15196c20776ae7c22a2739b03c/mL/feiertage-in-deutschland-1-data.pdf"
+      ]
+    },
+    {
+      "countryCode": "FR",
+      "years": [
+        2026,
+        2027,
+        2028,
+        2029,
+        2030,
+        2031
+      ],
+      "sourceURLs": [
+        "https://www.data.gouv.fr/datasets/jours-feries-en-france",
+        "https://calendrier.api.gouv.fr/jours-feries/metropole.json"
+      ]
+    },
+    {
+      "countryCode": "CA",
+      "years": [
+        2026
+      ],
+      "sourceURLs": [
+        "https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards/vacations-holidays.html",
+        "https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html"
+      ]
+    },
+    {
+      "countryCode": "AU",
+      "years": [
+        2026,
+        2027
+      ],
+      "sourceURLs": [
+        "https://www.fairwork.gov.au/employment-conditions/public-holidays/2026-public-holidays",
+        "https://www.fairwork.gov.au/employment-conditions/public-holidays/2027-public-holidays"
+      ]
+    },
+    {
+      "countryCode": "CN",
+      "years": [
+        2026
+      ],
+      "sourceURLs": [
+        "https://www.gov.cn/zhengce/content/202511/content_7047090.htm"
+      ]
+    },
+    {
+      "countryCode": "HK",
+      "years": [
+        2026,
+        2027
+      ],
+      "sourceURLs": [
+        "https://www.1823.gov.hk/common/ical/en.json"
+      ]
+    },
+    {
+      "countryCode": "SG",
+      "years": [
+        2026,
+        2027
+      ],
+      "sourceURLs": [
+        "https://data.gov.sg/datasets/d_149b61ad0a22f61c09dc80f2df5bbec8/view",
+        "https://data.gov.sg/datasets/d_0ba69fc6d56717ff0bf8083c6af3bb84/view"
+      ]
+    }
+  ],
+  "holidays": [
+    {
+      "day": "2026-01-01",
+      "countryCode": "AU",
+      "title": "New Year's Day"
+    },
+    {
+      "day": "2026-01-01",
+      "countryCode": "CA",
+      "title": "New Year's Day"
+    },
+    {
+      "day": "2026-01-01",
+      "countryCode": "CN",
+      "title": "元旦"
+    },
+    {
+      "day": "2026-01-01",
+      "countryCode": "DE",
+      "title": "Neujahr"
+    },
+    {
+      "day": "2026-01-01",
+      "countryCode": "FR",
+      "title": "1er janvier"
+    },
+    {
+      "day": "2026-01-01",
+      "countryCode": "GB",
+      "title": "New Year’s Day"
+    },
+    {
+      "day": "2026-01-01",
+      "countryCode": "HK",
+      "title": "The first day of January"
+    },
+    {
+      "day": "2026-01-01",
+      "countryCode": "JP",
+      "title": "元日"
+    },
+    {
+      "day": "2026-01-01",
+      "countryCode": "KR",
+      "title": "신정"
+    },
+    {
+      "day": "2026-01-01",
+      "countryCode": "SG",
+      "title": "New Year’s Day"
+    },
+    {
+      "day": "2026-01-01",
+      "countryCode": "US",
+      "title": "New Year’s Day"
+    },
+    {
+      "day": "2026-01-02",
+      "countryCode": "CN",
+      "title": "元旦"
+    },
+    {
+      "day": "2026-01-03",
+      "countryCode": "CN",
+      "title": "元旦"
+    },
+    {
+      "day": "2026-01-12",
+      "countryCode": "JP",
+      "title": "成人の日"
+    },
+    {
+      "day": "2026-01-19",
+      "countryCode": "US",
+      "title": "Birthday of Martin Luther King, Jr."
+    },
+    {
+      "day": "2026-01-26",
+      "countryCode": "AU",
+      "title": "Australia Day"
+    },
+    {
+      "day": "2026-02-11",
+      "countryCode": "JP",
+      "title": "建国記念の日"
+    },
+    {
+      "day": "2026-02-15",
+      "countryCode": "CN",
+      "title": "春节"
+    },
+    {
+      "day": "2026-02-16",
+      "countryCode": "CN",
+      "title": "春节"
+    },
+    {
+      "day": "2026-02-16",
+      "countryCode": "KR",
+      "title": "설날 연휴"
+    },
+    {
+      "day": "2026-02-16",
+      "countryCode": "US",
+      "title": "Washington’s Birthday"
+    },
+    {
+      "day": "2026-02-17",
+      "countryCode": "CN",
+      "title": "春节"
+    },
+    {
+      "day": "2026-02-17",
+      "countryCode": "HK",
+      "title": "Lunar New Year’s Day"
+    },
+    {
+      "day": "2026-02-17",
+      "countryCode": "KR",
+      "title": "설날"
+    },
+    {
+      "day": "2026-02-17",
+      "countryCode": "SG",
+      "title": "Chinese New Year"
+    },
+    {
+      "day": "2026-02-18",
+      "countryCode": "CN",
+      "title": "春节"
+    },
+    {
+      "day": "2026-02-18",
+      "countryCode": "HK",
+      "title": "The second day of Lunar New Year"
+    },
+    {
+      "day": "2026-02-18",
+      "countryCode": "KR",
+      "title": "설날 연휴"
+    },
+    {
+      "day": "2026-02-18",
+      "countryCode": "SG",
+      "title": "Chinese New Year"
+    },
+    {
+      "day": "2026-02-19",
+      "countryCode": "CN",
+      "title": "春节"
+    },
+    {
+      "day": "2026-02-19",
+      "countryCode": "HK",
+      "title": "The third day of Lunar New Year"
+    },
+    {
+      "day": "2026-02-20",
+      "countryCode": "CN",
+      "title": "春节"
+    },
+    {
+      "day": "2026-02-21",
+      "countryCode": "CN",
+      "title": "春节"
+    },
+    {
+      "day": "2026-02-22",
+      "countryCode": "CN",
+      "title": "春节"
+    },
+    {
+      "day": "2026-02-23",
+      "countryCode": "CN",
+      "title": "春节"
+    },
+    {
+      "day": "2026-02-23",
+      "countryCode": "JP",
+      "title": "天皇誕生日"
+    },
+    {
+      "day": "2026-03-01",
+      "countryCode": "KR",
+      "title": "삼일절"
+    },
+    {
+      "day": "2026-03-02",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2026-03-20",
+      "countryCode": "JP",
+      "title": "春分の日"
+    },
+    {
+      "day": "2026-03-21",
+      "countryCode": "SG",
+      "title": "Hari Raya Puasa"
+    },
+    {
+      "day": "2026-04-03",
+      "countryCode": "AU",
+      "title": "Good Friday"
+    },
+    {
+      "day": "2026-04-03",
+      "countryCode": "CA",
+      "title": "Good Friday"
+    },
+    {
+      "day": "2026-04-03",
+      "countryCode": "DE",
+      "title": "Karfreitag"
+    },
+    {
+      "day": "2026-04-03",
+      "countryCode": "GB",
+      "title": "Good Friday"
+    },
+    {
+      "day": "2026-04-03",
+      "countryCode": "HK",
+      "title": "Good Friday"
+    },
+    {
+      "day": "2026-04-03",
+      "countryCode": "SG",
+      "title": "Good Friday"
+    },
+    {
+      "day": "2026-04-04",
+      "countryCode": "CN",
+      "title": "清明节"
+    },
+    {
+      "day": "2026-04-04",
+      "countryCode": "HK",
+      "title": "The day following Good Friday"
+    },
+    {
+      "day": "2026-04-05",
+      "countryCode": "CN",
+      "title": "清明节"
+    },
+    {
+      "day": "2026-04-06",
+      "countryCode": "AU",
+      "title": "Easter Monday"
+    },
+    {
+      "day": "2026-04-06",
+      "countryCode": "CN",
+      "title": "清明节"
+    },
+    {
+      "day": "2026-04-06",
+      "countryCode": "DE",
+      "title": "Ostermontag"
+    },
+    {
+      "day": "2026-04-06",
+      "countryCode": "FR",
+      "title": "Lundi de Pâques"
+    },
+    {
+      "day": "2026-04-06",
+      "countryCode": "HK",
+      "title": "The day following Ching Ming Festival"
+    },
+    {
+      "day": "2026-04-07",
+      "countryCode": "HK",
+      "title": "The day following Easter Monday"
+    },
+    {
+      "day": "2026-04-25",
+      "countryCode": "AU",
+      "title": "Anzac Day"
+    },
+    {
+      "day": "2026-04-29",
+      "countryCode": "JP",
+      "title": "昭和の日"
+    },
+    {
+      "day": "2026-05-01",
+      "countryCode": "CN",
+      "title": "劳动节"
+    },
+    {
+      "day": "2026-05-01",
+      "countryCode": "DE",
+      "title": "Tag der Arbeit"
+    },
+    {
+      "day": "2026-05-01",
+      "countryCode": "FR",
+      "title": "1er mai"
+    },
+    {
+      "day": "2026-05-01",
+      "countryCode": "HK",
+      "title": "Labour Day"
+    },
+    {
+      "day": "2026-05-01",
+      "countryCode": "KR",
+      "title": "노동절"
+    },
+    {
+      "day": "2026-05-01",
+      "countryCode": "SG",
+      "title": "Labour Day"
+    },
+    {
+      "day": "2026-05-02",
+      "countryCode": "CN",
+      "title": "劳动节"
+    },
+    {
+      "day": "2026-05-03",
+      "countryCode": "CN",
+      "title": "劳动节"
+    },
+    {
+      "day": "2026-05-03",
+      "countryCode": "JP",
+      "title": "憲法記念日"
+    },
+    {
+      "day": "2026-05-04",
+      "countryCode": "CN",
+      "title": "劳动节"
+    },
+    {
+      "day": "2026-05-04",
+      "countryCode": "GB",
+      "title": "Early May bank holiday"
+    },
+    {
+      "day": "2026-05-04",
+      "countryCode": "JP",
+      "title": "みどりの日"
+    },
+    {
+      "day": "2026-05-05",
+      "countryCode": "CN",
+      "title": "劳动节"
+    },
+    {
+      "day": "2026-05-05",
+      "countryCode": "JP",
+      "title": "こどもの日"
+    },
+    {
+      "day": "2026-05-05",
+      "countryCode": "KR",
+      "title": "어린이날"
+    },
+    {
+      "day": "2026-05-06",
+      "countryCode": "JP",
+      "title": "休日"
+    },
+    {
+      "day": "2026-05-08",
+      "countryCode": "FR",
+      "title": "8 mai"
+    },
+    {
+      "day": "2026-05-14",
+      "countryCode": "DE",
+      "title": "Christi Himmelfahrt"
+    },
+    {
+      "day": "2026-05-14",
+      "countryCode": "FR",
+      "title": "Ascension"
+    },
+    {
+      "day": "2026-05-18",
+      "countryCode": "CA",
+      "title": "Victoria Day"
+    },
+    {
+      "day": "2026-05-24",
+      "countryCode": "KR",
+      "title": "부처님오신날"
+    },
+    {
+      "day": "2026-05-25",
+      "countryCode": "DE",
+      "title": "Pfingstmontag"
+    },
+    {
+      "day": "2026-05-25",
+      "countryCode": "FR",
+      "title": "Lundi de Pentecôte"
+    },
+    {
+      "day": "2026-05-25",
+      "countryCode": "GB",
+      "title": "Spring bank holiday"
+    },
+    {
+      "day": "2026-05-25",
+      "countryCode": "HK",
+      "title": "The day following the Birthday of the Buddha"
+    },
+    {
+      "day": "2026-05-25",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2026-05-25",
+      "countryCode": "US",
+      "title": "Memorial Day"
+    },
+    {
+      "day": "2026-05-27",
+      "countryCode": "SG",
+      "title": "Hari Raya Haji"
+    },
+    {
+      "day": "2026-05-31",
+      "countryCode": "SG",
+      "title": "Vesak Day"
+    },
+    {
+      "day": "2026-06-01",
+      "countryCode": "SG",
+      "title": "Vesak Day (Observed)"
+    },
+    {
+      "day": "2026-06-03",
+      "countryCode": "KR",
+      "title": "전국동시지방선거"
+    },
+    {
+      "day": "2026-06-06",
+      "countryCode": "KR",
+      "title": "현충일"
+    },
+    {
+      "day": "2026-06-19",
+      "countryCode": "CN",
+      "title": "端午节"
+    },
+    {
+      "day": "2026-06-19",
+      "countryCode": "HK",
+      "title": "Tuen Ng Festival"
+    },
+    {
+      "day": "2026-06-19",
+      "countryCode": "US",
+      "title": "Juneteenth National Independence Day"
+    },
+    {
+      "day": "2026-06-20",
+      "countryCode": "CN",
+      "title": "端午节"
+    },
+    {
+      "day": "2026-06-21",
+      "countryCode": "CN",
+      "title": "端午节"
+    },
+    {
+      "day": "2026-07-01",
+      "countryCode": "CA",
+      "title": "Canada Day"
+    },
+    {
+      "day": "2026-07-01",
+      "countryCode": "HK",
+      "title": "Hong Kong Special Administrative Region Establishment Day"
+    },
+    {
+      "day": "2026-07-03",
+      "countryCode": "US",
+      "title": "Independence Day"
+    },
+    {
+      "day": "2026-07-14",
+      "countryCode": "FR",
+      "title": "14 juillet"
+    },
+    {
+      "day": "2026-07-17",
+      "countryCode": "KR",
+      "title": "제헌절"
+    },
+    {
+      "day": "2026-07-20",
+      "countryCode": "JP",
+      "title": "海の日"
+    },
+    {
+      "day": "2026-08-09",
+      "countryCode": "SG",
+      "title": "National Day"
+    },
+    {
+      "day": "2026-08-10",
+      "countryCode": "SG",
+      "title": "National Day (Observed)"
+    },
+    {
+      "day": "2026-08-11",
+      "countryCode": "JP",
+      "title": "山の日"
+    },
+    {
+      "day": "2026-08-15",
+      "countryCode": "FR",
+      "title": "Assomption"
+    },
+    {
+      "day": "2026-08-15",
+      "countryCode": "KR",
+      "title": "광복절"
+    },
+    {
+      "day": "2026-08-17",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2026-09-07",
+      "countryCode": "CA",
+      "title": "Labour Day"
+    },
+    {
+      "day": "2026-09-07",
+      "countryCode": "US",
+      "title": "Labor Day"
+    },
+    {
+      "day": "2026-09-21",
+      "countryCode": "JP",
+      "title": "敬老の日"
+    },
+    {
+      "day": "2026-09-22",
+      "countryCode": "JP",
+      "title": "休日"
+    },
+    {
+      "day": "2026-09-23",
+      "countryCode": "JP",
+      "title": "秋分の日"
+    },
+    {
+      "day": "2026-09-24",
+      "countryCode": "KR",
+      "title": "추석 연휴"
+    },
+    {
+      "day": "2026-09-25",
+      "countryCode": "CN",
+      "title": "中秋节"
+    },
+    {
+      "day": "2026-09-25",
+      "countryCode": "KR",
+      "title": "추석"
+    },
+    {
+      "day": "2026-09-26",
+      "countryCode": "CN",
+      "title": "中秋节"
+    },
+    {
+      "day": "2026-09-26",
+      "countryCode": "HK",
+      "title": "The day following the Chinese Mid-Autumn Festival"
+    },
+    {
+      "day": "2026-09-26",
+      "countryCode": "KR",
+      "title": "추석 연휴"
+    },
+    {
+      "day": "2026-09-27",
+      "countryCode": "CN",
+      "title": "中秋节"
+    },
+    {
+      "day": "2026-09-30",
+      "countryCode": "CA",
+      "title": "National Day for Truth and Reconciliation"
+    },
+    {
+      "day": "2026-10-01",
+      "countryCode": "CN",
+      "title": "国庆节"
+    },
+    {
+      "day": "2026-10-01",
+      "countryCode": "HK",
+      "title": "National Day"
+    },
+    {
+      "day": "2026-10-02",
+      "countryCode": "CN",
+      "title": "国庆节"
+    },
+    {
+      "day": "2026-10-03",
+      "countryCode": "CN",
+      "title": "国庆节"
+    },
+    {
+      "day": "2026-10-03",
+      "countryCode": "DE",
+      "title": "Tag der Deutschen Einheit"
+    },
+    {
+      "day": "2026-10-03",
+      "countryCode": "KR",
+      "title": "개천절"
+    },
+    {
+      "day": "2026-10-04",
+      "countryCode": "CN",
+      "title": "国庆节"
+    },
+    {
+      "day": "2026-10-05",
+      "countryCode": "CN",
+      "title": "国庆节"
+    },
+    {
+      "day": "2026-10-05",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2026-10-06",
+      "countryCode": "CN",
+      "title": "国庆节"
+    },
+    {
+      "day": "2026-10-07",
+      "countryCode": "CN",
+      "title": "国庆节"
+    },
+    {
+      "day": "2026-10-09",
+      "countryCode": "KR",
+      "title": "한글날"
+    },
+    {
+      "day": "2026-10-12",
+      "countryCode": "CA",
+      "title": "Thanksgiving Day"
+    },
+    {
+      "day": "2026-10-12",
+      "countryCode": "JP",
+      "title": "スポーツの日"
+    },
+    {
+      "day": "2026-10-12",
+      "countryCode": "US",
+      "title": "Columbus Day"
+    },
+    {
+      "day": "2026-10-19",
+      "countryCode": "HK",
+      "title": "The day following Chung Yeung Festival"
+    },
+    {
+      "day": "2026-11-01",
+      "countryCode": "FR",
+      "title": "Toussaint"
+    },
+    {
+      "day": "2026-11-03",
+      "countryCode": "JP",
+      "title": "文化の日"
+    },
+    {
+      "day": "2026-11-08",
+      "countryCode": "SG",
+      "title": "Deepavali"
+    },
+    {
+      "day": "2026-11-09",
+      "countryCode": "SG",
+      "title": "Deepavali (Observed)"
+    },
+    {
+      "day": "2026-11-11",
+      "countryCode": "CA",
+      "title": "Remembrance Day"
+    },
+    {
+      "day": "2026-11-11",
+      "countryCode": "FR",
+      "title": "11 novembre"
+    },
+    {
+      "day": "2026-11-11",
+      "countryCode": "US",
+      "title": "Veterans Day"
+    },
+    {
+      "day": "2026-11-23",
+      "countryCode": "JP",
+      "title": "勤労感謝の日"
+    },
+    {
+      "day": "2026-11-26",
+      "countryCode": "US",
+      "title": "Thanksgiving Day"
+    },
+    {
+      "day": "2026-12-25",
+      "countryCode": "AU",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2026-12-25",
+      "countryCode": "CA",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2026-12-25",
+      "countryCode": "DE",
+      "title": "1. Weihnachtsfeiertag"
+    },
+    {
+      "day": "2026-12-25",
+      "countryCode": "FR",
+      "title": "Jour de Noël"
+    },
+    {
+      "day": "2026-12-25",
+      "countryCode": "GB",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2026-12-25",
+      "countryCode": "HK",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2026-12-25",
+      "countryCode": "KR",
+      "title": "성탄절"
+    },
+    {
+      "day": "2026-12-25",
+      "countryCode": "SG",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2026-12-25",
+      "countryCode": "US",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2026-12-26",
+      "countryCode": "CA",
+      "title": "Boxing Day"
+    },
+    {
+      "day": "2026-12-26",
+      "countryCode": "DE",
+      "title": "2. Weihnachtsfeiertag"
+    },
+    {
+      "day": "2026-12-26",
+      "countryCode": "HK",
+      "title": "The first weekday after Christmas Day"
+    },
+    {
+      "day": "2026-12-28",
+      "countryCode": "AU",
+      "title": "Boxing / Proclamation Day (observed)"
+    },
+    {
+      "day": "2026-12-28",
+      "countryCode": "GB",
+      "title": "Boxing Day"
+    },
+    {
+      "day": "2027-01-01",
+      "countryCode": "AU",
+      "title": "New Year's Day"
+    },
+    {
+      "day": "2027-01-01",
+      "countryCode": "FR",
+      "title": "1er janvier"
+    },
+    {
+      "day": "2027-01-01",
+      "countryCode": "GB",
+      "title": "New Year’s Day"
+    },
+    {
+      "day": "2027-01-01",
+      "countryCode": "HK",
+      "title": "The first day of January"
+    },
+    {
+      "day": "2027-01-01",
+      "countryCode": "JP",
+      "title": "元日"
+    },
+    {
+      "day": "2027-01-01",
+      "countryCode": "KR",
+      "title": "신정"
+    },
+    {
+      "day": "2027-01-01",
+      "countryCode": "SG",
+      "title": "New Year’s Day"
+    },
+    {
+      "day": "2027-01-01",
+      "countryCode": "US",
+      "title": "New Year’s Day"
+    },
+    {
+      "day": "2027-01-11",
+      "countryCode": "JP",
+      "title": "成人の日"
+    },
+    {
+      "day": "2027-01-18",
+      "countryCode": "US",
+      "title": "Birthday of Martin Luther King, Jr."
+    },
+    {
+      "day": "2027-01-26",
+      "countryCode": "AU",
+      "title": "Australia Day"
+    },
+    {
+      "day": "2027-02-06",
+      "countryCode": "HK",
+      "title": "Lunar New Year's Day"
+    },
+    {
+      "day": "2027-02-06",
+      "countryCode": "KR",
+      "title": "설날 연휴"
+    },
+    {
+      "day": "2027-02-06",
+      "countryCode": "SG",
+      "title": "Chinese New Year"
+    },
+    {
+      "day": "2027-02-07",
+      "countryCode": "KR",
+      "title": "설날"
+    },
+    {
+      "day": "2027-02-07",
+      "countryCode": "SG",
+      "title": "Chinese New Year"
+    },
+    {
+      "day": "2027-02-08",
+      "countryCode": "HK",
+      "title": "The third day of Lunar New Year"
+    },
+    {
+      "day": "2027-02-08",
+      "countryCode": "KR",
+      "title": "설날 연휴"
+    },
+    {
+      "day": "2027-02-08",
+      "countryCode": "SG",
+      "title": "Chinese New Year (Observed)"
+    },
+    {
+      "day": "2027-02-09",
+      "countryCode": "HK",
+      "title": "The fourth day of Lunar New Year"
+    },
+    {
+      "day": "2027-02-09",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2027-02-11",
+      "countryCode": "JP",
+      "title": "建国記念の日"
+    },
+    {
+      "day": "2027-02-15",
+      "countryCode": "US",
+      "title": "Washington’s Birthday"
+    },
+    {
+      "day": "2027-02-23",
+      "countryCode": "JP",
+      "title": "天皇誕生日"
+    },
+    {
+      "day": "2027-03-01",
+      "countryCode": "KR",
+      "title": "삼일절"
+    },
+    {
+      "day": "2027-03-10",
+      "countryCode": "SG",
+      "title": "Hari Raya Puasa"
+    },
+    {
+      "day": "2027-03-21",
+      "countryCode": "JP",
+      "title": "春分の日"
+    },
+    {
+      "day": "2027-03-22",
+      "countryCode": "JP",
+      "title": "休日"
+    },
+    {
+      "day": "2027-03-26",
+      "countryCode": "AU",
+      "title": "Good Friday"
+    },
+    {
+      "day": "2027-03-26",
+      "countryCode": "GB",
+      "title": "Good Friday"
+    },
+    {
+      "day": "2027-03-26",
+      "countryCode": "HK",
+      "title": "Good Friday"
+    },
+    {
+      "day": "2027-03-26",
+      "countryCode": "SG",
+      "title": "Good Friday"
+    },
+    {
+      "day": "2027-03-27",
+      "countryCode": "HK",
+      "title": "The day following Good Friday"
+    },
+    {
+      "day": "2027-03-29",
+      "countryCode": "AU",
+      "title": "Easter Monday"
+    },
+    {
+      "day": "2027-03-29",
+      "countryCode": "FR",
+      "title": "Lundi de Pâques"
+    },
+    {
+      "day": "2027-03-29",
+      "countryCode": "HK",
+      "title": "Easter Monday"
+    },
+    {
+      "day": "2027-04-05",
+      "countryCode": "HK",
+      "title": "Ching Ming Festival"
+    },
+    {
+      "day": "2027-04-29",
+      "countryCode": "JP",
+      "title": "昭和の日"
+    },
+    {
+      "day": "2027-05-01",
+      "countryCode": "FR",
+      "title": "1er mai"
+    },
+    {
+      "day": "2027-05-01",
+      "countryCode": "HK",
+      "title": "Labour Day"
+    },
+    {
+      "day": "2027-05-01",
+      "countryCode": "KR",
+      "title": "노동절"
+    },
+    {
+      "day": "2027-05-01",
+      "countryCode": "SG",
+      "title": "Labour Day"
+    },
+    {
+      "day": "2027-05-03",
+      "countryCode": "GB",
+      "title": "Early May bank holiday"
+    },
+    {
+      "day": "2027-05-03",
+      "countryCode": "JP",
+      "title": "憲法記念日"
+    },
+    {
+      "day": "2027-05-03",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2027-05-04",
+      "countryCode": "JP",
+      "title": "みどりの日"
+    },
+    {
+      "day": "2027-05-05",
+      "countryCode": "JP",
+      "title": "こどもの日"
+    },
+    {
+      "day": "2027-05-05",
+      "countryCode": "KR",
+      "title": "어린이날"
+    },
+    {
+      "day": "2027-05-06",
+      "countryCode": "FR",
+      "title": "Ascension"
+    },
+    {
+      "day": "2027-05-08",
+      "countryCode": "FR",
+      "title": "8 mai"
+    },
+    {
+      "day": "2027-05-13",
+      "countryCode": "HK",
+      "title": "The Birthday of the Buddha"
+    },
+    {
+      "day": "2027-05-13",
+      "countryCode": "KR",
+      "title": "부처님오신날"
+    },
+    {
+      "day": "2027-05-17",
+      "countryCode": "FR",
+      "title": "Lundi de Pentecôte"
+    },
+    {
+      "day": "2027-05-17",
+      "countryCode": "SG",
+      "title": "Hari Raya Haji"
+    },
+    {
+      "day": "2027-05-20",
+      "countryCode": "SG",
+      "title": "Vesak Day"
+    },
+    {
+      "day": "2027-05-31",
+      "countryCode": "GB",
+      "title": "Spring bank holiday"
+    },
+    {
+      "day": "2027-05-31",
+      "countryCode": "US",
+      "title": "Memorial Day"
+    },
+    {
+      "day": "2027-06-06",
+      "countryCode": "KR",
+      "title": "현충일"
+    },
+    {
+      "day": "2027-06-09",
+      "countryCode": "HK",
+      "title": "Tuen Ng Festival"
+    },
+    {
+      "day": "2027-06-18",
+      "countryCode": "US",
+      "title": "Juneteenth National Independence Day"
+    },
+    {
+      "day": "2027-07-01",
+      "countryCode": "HK",
+      "title": "Hong Kong Special Administrative Region Establishment Day"
+    },
+    {
+      "day": "2027-07-05",
+      "countryCode": "US",
+      "title": "Independence Day"
+    },
+    {
+      "day": "2027-07-14",
+      "countryCode": "FR",
+      "title": "14 juillet"
+    },
+    {
+      "day": "2027-07-17",
+      "countryCode": "KR",
+      "title": "제헌절"
+    },
+    {
+      "day": "2027-07-19",
+      "countryCode": "JP",
+      "title": "海の日"
+    },
+    {
+      "day": "2027-07-19",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2027-08-09",
+      "countryCode": "SG",
+      "title": "National Day"
+    },
+    {
+      "day": "2027-08-11",
+      "countryCode": "JP",
+      "title": "山の日"
+    },
+    {
+      "day": "2027-08-15",
+      "countryCode": "FR",
+      "title": "Assomption"
+    },
+    {
+      "day": "2027-08-15",
+      "countryCode": "KR",
+      "title": "광복절"
+    },
+    {
+      "day": "2027-08-16",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2027-09-06",
+      "countryCode": "US",
+      "title": "Labor Day"
+    },
+    {
+      "day": "2027-09-14",
+      "countryCode": "KR",
+      "title": "추석 연휴"
+    },
+    {
+      "day": "2027-09-15",
+      "countryCode": "KR",
+      "title": "추석"
+    },
+    {
+      "day": "2027-09-16",
+      "countryCode": "HK",
+      "title": "The day following the Chinese Mid-Autumn Festival"
+    },
+    {
+      "day": "2027-09-16",
+      "countryCode": "KR",
+      "title": "추석 연휴"
+    },
+    {
+      "day": "2027-09-20",
+      "countryCode": "JP",
+      "title": "敬老の日"
+    },
+    {
+      "day": "2027-09-23",
+      "countryCode": "JP",
+      "title": "秋分の日"
+    },
+    {
+      "day": "2027-10-01",
+      "countryCode": "HK",
+      "title": "National Day"
+    },
+    {
+      "day": "2027-10-03",
+      "countryCode": "KR",
+      "title": "개천절"
+    },
+    {
+      "day": "2027-10-04",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2027-10-08",
+      "countryCode": "HK",
+      "title": "Chung Yeung Festival"
+    },
+    {
+      "day": "2027-10-09",
+      "countryCode": "KR",
+      "title": "한글날"
+    },
+    {
+      "day": "2027-10-11",
+      "countryCode": "JP",
+      "title": "スポーツの日"
+    },
+    {
+      "day": "2027-10-11",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2027-10-11",
+      "countryCode": "US",
+      "title": "Columbus Day"
+    },
+    {
+      "day": "2027-10-28",
+      "countryCode": "SG",
+      "title": "Deepavali"
+    },
+    {
+      "day": "2027-11-01",
+      "countryCode": "FR",
+      "title": "Toussaint"
+    },
+    {
+      "day": "2027-11-03",
+      "countryCode": "JP",
+      "title": "文化の日"
+    },
+    {
+      "day": "2027-11-11",
+      "countryCode": "FR",
+      "title": "11 novembre"
+    },
+    {
+      "day": "2027-11-11",
+      "countryCode": "US",
+      "title": "Veterans Day"
+    },
+    {
+      "day": "2027-11-23",
+      "countryCode": "JP",
+      "title": "勤労感謝の日"
+    },
+    {
+      "day": "2027-11-25",
+      "countryCode": "US",
+      "title": "Thanksgiving Day"
+    },
+    {
+      "day": "2027-12-24",
+      "countryCode": "US",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2027-12-25",
+      "countryCode": "AU",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2027-12-25",
+      "countryCode": "FR",
+      "title": "Jour de Noël"
+    },
+    {
+      "day": "2027-12-25",
+      "countryCode": "HK",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2027-12-25",
+      "countryCode": "KR",
+      "title": "성탄절"
+    },
+    {
+      "day": "2027-12-25",
+      "countryCode": "SG",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2027-12-27",
+      "countryCode": "AU",
+      "title": "Christmas Day (observed)"
+    },
+    {
+      "day": "2027-12-27",
+      "countryCode": "GB",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2027-12-27",
+      "countryCode": "HK",
+      "title": "The first weekday after Christmas Day"
+    },
+    {
+      "day": "2027-12-27",
+      "countryCode": "KR",
+      "title": "대체공휴일"
+    },
+    {
+      "day": "2027-12-28",
+      "countryCode": "AU",
+      "title": "Boxing / Proclamation Day (observed)"
+    },
+    {
+      "day": "2027-12-28",
+      "countryCode": "GB",
+      "title": "Boxing Day"
+    },
+    {
+      "day": "2027-12-31",
+      "countryCode": "US",
+      "title": "New Year’s Day"
+    },
+    {
+      "day": "2028-01-01",
+      "countryCode": "FR",
+      "title": "1er janvier"
+    },
+    {
+      "day": "2028-01-03",
+      "countryCode": "GB",
+      "title": "New Year’s Day"
+    },
+    {
+      "day": "2028-01-17",
+      "countryCode": "US",
+      "title": "Birthday of Martin Luther King, Jr."
+    },
+    {
+      "day": "2028-02-21",
+      "countryCode": "US",
+      "title": "Washington’s Birthday"
+    },
+    {
+      "day": "2028-04-14",
+      "countryCode": "GB",
+      "title": "Good Friday"
+    },
+    {
+      "day": "2028-04-17",
+      "countryCode": "FR",
+      "title": "Lundi de Pâques"
+    },
+    {
+      "day": "2028-05-01",
+      "countryCode": "FR",
+      "title": "1er mai"
+    },
+    {
+      "day": "2028-05-01",
+      "countryCode": "GB",
+      "title": "Early May bank holiday"
+    },
+    {
+      "day": "2028-05-08",
+      "countryCode": "FR",
+      "title": "8 mai"
+    },
+    {
+      "day": "2028-05-25",
+      "countryCode": "FR",
+      "title": "Ascension"
+    },
+    {
+      "day": "2028-05-29",
+      "countryCode": "GB",
+      "title": "Spring bank holiday"
+    },
+    {
+      "day": "2028-05-29",
+      "countryCode": "US",
+      "title": "Memorial Day"
+    },
+    {
+      "day": "2028-06-05",
+      "countryCode": "FR",
+      "title": "Lundi de Pentecôte"
+    },
+    {
+      "day": "2028-06-19",
+      "countryCode": "US",
+      "title": "Juneteenth National Independence Day"
+    },
+    {
+      "day": "2028-07-04",
+      "countryCode": "US",
+      "title": "Independence Day"
+    },
+    {
+      "day": "2028-07-14",
+      "countryCode": "FR",
+      "title": "14 juillet"
+    },
+    {
+      "day": "2028-08-15",
+      "countryCode": "FR",
+      "title": "Assomption"
+    },
+    {
+      "day": "2028-09-04",
+      "countryCode": "US",
+      "title": "Labor Day"
+    },
+    {
+      "day": "2028-10-09",
+      "countryCode": "US",
+      "title": "Columbus Day"
+    },
+    {
+      "day": "2028-11-01",
+      "countryCode": "FR",
+      "title": "Toussaint"
+    },
+    {
+      "day": "2028-11-10",
+      "countryCode": "US",
+      "title": "Veterans Day"
+    },
+    {
+      "day": "2028-11-11",
+      "countryCode": "FR",
+      "title": "11 novembre"
+    },
+    {
+      "day": "2028-11-23",
+      "countryCode": "US",
+      "title": "Thanksgiving Day"
+    },
+    {
+      "day": "2028-12-25",
+      "countryCode": "FR",
+      "title": "Jour de Noël"
+    },
+    {
+      "day": "2028-12-25",
+      "countryCode": "GB",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2028-12-25",
+      "countryCode": "US",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2028-12-26",
+      "countryCode": "GB",
+      "title": "Boxing Day"
+    },
+    {
+      "day": "2029-01-01",
+      "countryCode": "FR",
+      "title": "1er janvier"
+    },
+    {
+      "day": "2029-01-01",
+      "countryCode": "US",
+      "title": "New Year’s Day"
+    },
+    {
+      "day": "2029-01-15",
+      "countryCode": "US",
+      "title": "Birthday of Martin Luther King, Jr."
+    },
+    {
+      "day": "2029-02-19",
+      "countryCode": "US",
+      "title": "Washington’s Birthday"
+    },
+    {
+      "day": "2029-04-02",
+      "countryCode": "FR",
+      "title": "Lundi de Pâques"
+    },
+    {
+      "day": "2029-05-01",
+      "countryCode": "FR",
+      "title": "1er mai"
+    },
+    {
+      "day": "2029-05-08",
+      "countryCode": "FR",
+      "title": "8 mai"
+    },
+    {
+      "day": "2029-05-10",
+      "countryCode": "FR",
+      "title": "Ascension"
+    },
+    {
+      "day": "2029-05-21",
+      "countryCode": "FR",
+      "title": "Lundi de Pentecôte"
+    },
+    {
+      "day": "2029-05-28",
+      "countryCode": "US",
+      "title": "Memorial Day"
+    },
+    {
+      "day": "2029-06-19",
+      "countryCode": "US",
+      "title": "Juneteenth National Independence Day"
+    },
+    {
+      "day": "2029-07-04",
+      "countryCode": "US",
+      "title": "Independence Day"
+    },
+    {
+      "day": "2029-07-14",
+      "countryCode": "FR",
+      "title": "14 juillet"
+    },
+    {
+      "day": "2029-08-15",
+      "countryCode": "FR",
+      "title": "Assomption"
+    },
+    {
+      "day": "2029-09-03",
+      "countryCode": "US",
+      "title": "Labor Day"
+    },
+    {
+      "day": "2029-10-08",
+      "countryCode": "US",
+      "title": "Columbus Day"
+    },
+    {
+      "day": "2029-11-01",
+      "countryCode": "FR",
+      "title": "Toussaint"
+    },
+    {
+      "day": "2029-11-11",
+      "countryCode": "FR",
+      "title": "11 novembre"
+    },
+    {
+      "day": "2029-11-12",
+      "countryCode": "US",
+      "title": "Veterans Day"
+    },
+    {
+      "day": "2029-11-22",
+      "countryCode": "US",
+      "title": "Thanksgiving Day"
+    },
+    {
+      "day": "2029-12-25",
+      "countryCode": "FR",
+      "title": "Jour de Noël"
+    },
+    {
+      "day": "2029-12-25",
+      "countryCode": "US",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2030-01-01",
+      "countryCode": "FR",
+      "title": "1er janvier"
+    },
+    {
+      "day": "2030-01-01",
+      "countryCode": "US",
+      "title": "New Year’s Day"
+    },
+    {
+      "day": "2030-01-21",
+      "countryCode": "US",
+      "title": "Birthday of Martin Luther King, Jr."
+    },
+    {
+      "day": "2030-02-18",
+      "countryCode": "US",
+      "title": "Washington’s Birthday"
+    },
+    {
+      "day": "2030-04-22",
+      "countryCode": "FR",
+      "title": "Lundi de Pâques"
+    },
+    {
+      "day": "2030-05-01",
+      "countryCode": "FR",
+      "title": "1er mai"
+    },
+    {
+      "day": "2030-05-08",
+      "countryCode": "FR",
+      "title": "8 mai"
+    },
+    {
+      "day": "2030-05-27",
+      "countryCode": "US",
+      "title": "Memorial Day"
+    },
+    {
+      "day": "2030-05-30",
+      "countryCode": "FR",
+      "title": "Ascension"
+    },
+    {
+      "day": "2030-06-10",
+      "countryCode": "FR",
+      "title": "Lundi de Pentecôte"
+    },
+    {
+      "day": "2030-06-19",
+      "countryCode": "US",
+      "title": "Juneteenth National Independence Day"
+    },
+    {
+      "day": "2030-07-04",
+      "countryCode": "US",
+      "title": "Independence Day"
+    },
+    {
+      "day": "2030-07-14",
+      "countryCode": "FR",
+      "title": "14 juillet"
+    },
+    {
+      "day": "2030-08-15",
+      "countryCode": "FR",
+      "title": "Assomption"
+    },
+    {
+      "day": "2030-09-02",
+      "countryCode": "US",
+      "title": "Labor Day"
+    },
+    {
+      "day": "2030-10-14",
+      "countryCode": "US",
+      "title": "Columbus Day"
+    },
+    {
+      "day": "2030-11-01",
+      "countryCode": "FR",
+      "title": "Toussaint"
+    },
+    {
+      "day": "2030-11-11",
+      "countryCode": "FR",
+      "title": "11 novembre"
+    },
+    {
+      "day": "2030-11-11",
+      "countryCode": "US",
+      "title": "Veterans Day"
+    },
+    {
+      "day": "2030-11-28",
+      "countryCode": "US",
+      "title": "Thanksgiving Day"
+    },
+    {
+      "day": "2030-12-25",
+      "countryCode": "FR",
+      "title": "Jour de Noël"
+    },
+    {
+      "day": "2030-12-25",
+      "countryCode": "US",
+      "title": "Christmas Day"
+    },
+    {
+      "day": "2031-01-01",
+      "countryCode": "FR",
+      "title": "1er janvier"
+    },
+    {
+      "day": "2031-04-14",
+      "countryCode": "FR",
+      "title": "Lundi de Pâques"
+    },
+    {
+      "day": "2031-05-01",
+      "countryCode": "FR",
+      "title": "1er mai"
+    },
+    {
+      "day": "2031-05-08",
+      "countryCode": "FR",
+      "title": "8 mai"
+    },
+    {
+      "day": "2031-05-22",
+      "countryCode": "FR",
+      "title": "Ascension"
+    },
+    {
+      "day": "2031-06-02",
+      "countryCode": "FR",
+      "title": "Lundi de Pentecôte"
+    },
+    {
+      "day": "2031-07-14",
+      "countryCode": "FR",
+      "title": "14 juillet"
+    },
+    {
+      "day": "2031-08-15",
+      "countryCode": "FR",
+      "title": "Assomption"
+    },
+    {
+      "day": "2031-11-01",
+      "countryCode": "FR",
+      "title": "Toussaint"
+    },
+    {
+      "day": "2031-11-11",
+      "countryCode": "FR",
+      "title": "11 novembre"
+    },
+    {
+      "day": "2031-12-25",
+      "countryCode": "FR",
+      "title": "Jour de Noël"
+    }
+  ]
+}
